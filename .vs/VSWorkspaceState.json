@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\androidtest",
+    "\\androidtest\\res",
+    "\\androidtest\\src",
+    "\\androidtest\\src\\com",
+    "\\androidtest\\src\\com\\googlecode",
+    "\\androidtest\\src\\com\\googlecode\\mp4parser",
+    "\\androidtest\\src\\com\\googlecode\\mp4parser\\android"
+  ],
+  "PreviewInSolutionExplorer": true,
+  "SelectedNode": "\\androidtest\\pom.xml"
+}
