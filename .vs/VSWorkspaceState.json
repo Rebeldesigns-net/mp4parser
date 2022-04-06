@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\androidtest",
-    "\\androidtest\\res",
-    "\\androidtest\\src",
-    "\\androidtest\\src\\com",
-    "\\androidtest\\src\\com\\googlecode",
-    "\\androidtest\\src\\com\\googlecode\\mp4parser",
-    "\\androidtest\\src\\com\\googlecode\\mp4parser\\android"
+    "\\isoparser",
+    "\\isoparser\\src",
+    "\\isoparser\\src\\main",
+    "\\isoparser\\src\\main\\java",
+    "\\isoparser\\src\\main\\java\\org",
+    "\\isoparser\\src\\main\\java\\org\\mp4parser",
+    "\\isoparser\\src\\main\\java\\org\\mp4parser\\support",
+    "\\isoparser\\src\\main\\java\\org\\mp4parser\\tools",
+    "\\isoparser\\src\\main\\resources"
   ],
-  "PreviewInSolutionExplorer": true,
-  "SelectedNode": "\\androidtest\\pom.xml"
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": true
 }
